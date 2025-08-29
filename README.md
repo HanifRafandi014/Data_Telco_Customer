@@ -34,5 +34,3 @@ Cross-Industry Standard Process for Data Mining (CRISP-DM)
 # 📂 STAGE 4: Evaluation
 
 # 📂 STAGE 5: Deployment
-
-# 📂 Stage 2: Business Recommendation
